@@ -47,5 +47,6 @@
         <link rel="stylesheet" href="{{asset('css/app.css')}}"> 
         <script src="{{asset('js/app.js')}}"></script>
         @stack('js_scripts')
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     </body>
 </html>
